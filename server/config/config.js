@@ -28,3 +28,8 @@ process.env.CADUCIDAD_TOKEN = 60*60*24*30;
 /*SECRET*/
 process.env.SECRET = 'esta-es-la-llave-privada';
 /*SECRET*/
+
+
+/*Google client id*/
+process.env.CLIENT_ID = '420110485420-69oldt9br1dqo3da9mghsgd7k3gmftse.apps.googleusercontent.com';
+/*Google client id*/
